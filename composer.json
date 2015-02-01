@@ -1,0 +1,13 @@
+{
+    "name": "maoneid/user-control",
+    "description": "Yii2 User Control",
+    "license": "MIT Lisence",
+    "authors": [
+        {
+            "name": "Mawan Sugiyanto",
+            "email": "maoneid@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
